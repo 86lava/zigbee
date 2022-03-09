@@ -6,7 +6,7 @@ category: light
 supports: on/off, brightness
 image: /assets/images/devices/74696.jpg
 zigbeemodel: ['A19 W 10 year']
-compatible: [z2m]
+compatible: [z2m][ZHA]
 mlink: 
 link: https://www.amazon.com/Sylvania-74696-Equivalent-SmartThings-Dimamble/dp/B0787LJCMC
 link2: 
